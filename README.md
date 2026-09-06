@@ -2,7 +2,7 @@
 
 Working through **NeetCode 150** one problem at a time.
 
-Learning DSA with Python to make peace with leetcode, one tiny brain cell at a time 🎀
+Learning DSA with Python to make peace with leetcode 🎀
 ...and slowly convincing my brain that this is, in fact, a normal thing to do 😭
 
 ## 🧠 Topics
