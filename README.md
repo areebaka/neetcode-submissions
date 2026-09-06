@@ -1,6 +1,6 @@
 # Areeba vs. LeetCode
 
-Working through **NeetCode 150** one problem at a time.
+Working through **NeetCode 150** one problem at a time
 
 Learning DSA with Python to make peace with leetcode 🎀
 ...and slowly convincing my brain that this is, in fact, a normal thing to do 😭
@@ -17,15 +17,9 @@ Python
 
 ## 🎯 Goal
 
-**Understand → Solve → Explain → Move on.**
+**Understand → Solve → Explain → Move o.**
 
 ### 🌀 Reality
 
 **Get stuck → Struggle → Fight for my life → Peek at the solution → 
-Finally get it → Rewrite it in my own words → Pretend I was never stuck.**
-
-Trying to make my brain a little less scared of DSA, one problem at a time.
-
----
-
-*currently somewhere between “ohhh I get it” and “what the hell is this”*
+Finally get it → Rewrite it in my own words → Pretend I was never stuck**
