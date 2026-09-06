@@ -19,6 +19,11 @@ Python
 
 **Understand → Solve → Explain → Move on.**
 
+### 🌀 Reality
+
+**Get stuck → Struggle → Fight for my life → Peek at the solution → 
+Finally get it → Rewrite it in my own words → Pretend I was never stuck.**
+
 Trying to make my brain a little less scared of DSA, one problem at a time.
 
 ---
