@@ -2,8 +2,8 @@
 
 Working through **NeetCode 150** one problem at a time.
 
-Learning DSA with Python and trying to actually understand what I'm doing 
-before moving on to the next problem. Baby steps. 🫡
+Learning DSA with Python to make peace with leetcode, one tiny brain cell at a time 🎀
+...and slowly convincing my brain that this is, in fact, a normal thing to do 😭
 
 ## 🧠 Topics
 
