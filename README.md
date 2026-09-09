@@ -17,7 +17,7 @@ Python
 
 ## 🎯 Goal
 
-**Understand → Solve → Explain → Move o.**
+**Understand → Solve → Explain → Move on**
 
 ### 🌀 Reality
 
